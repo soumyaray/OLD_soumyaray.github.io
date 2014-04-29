@@ -1,9 +1,5 @@
----
-layout: default
-title: Soumya Ray's Research
----
 
-#Research Papers
+##Research Papers
 
 Ray, S., Kim, S. S., and Morris, J. G. 2012. “Online Users' Switching Costs:
 Their Nature and Formation,” *Information Systems Research* (23:1), pp. 197–213.
