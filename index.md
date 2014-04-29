@@ -1,6 +1,4 @@
 ---
 layout: default
-title: Soumya Ray's CV
+title: Soumya Ray
 ---
-
-ehllo
