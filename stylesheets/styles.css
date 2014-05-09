@@ -7,8 +7,16 @@ body {
   font-weight:300;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  color: #576D94
+}
+
+h2, h3, h4, h5, h6 {
   color:#222;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
