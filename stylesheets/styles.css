@@ -1,5 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
+#SNSbutton {
+  border: 2px solid #6495ED;
+  border-radius: 10px;
+  width: 200px;
+  background-color: #BCD2EE;
+  font-family: Arial, sans-serif;
+  color: white;
+  margin: 10px;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
+
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
