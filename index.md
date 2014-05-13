@@ -3,5 +3,7 @@ layout: default
 title: Soumya Ray
 ---
 
-{% include background.md %}
-{% include research.md %}
+{% include current_position.html %}
+{% include SNSbuttons.html %}
+<br>
+{% include pub_papers.md %}

@@ -1,8 +1,7 @@
 
 ##Academic Experience
-                            | |
- -------------------------- | ---------------------------------------
-<b>Assistant Professor</b><br>Aug 2010 - present | National Tsing Hua University <br>College of Technology Management<br>Institute of Service Science
+
+{% include current_position.html %}
 
 ##Education
 

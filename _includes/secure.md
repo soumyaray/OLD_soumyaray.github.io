@@ -1,9 +1,10 @@
-## GnuPG: RSA Fingerprint
+## GPG fingerprint:
 ```
+2048R/CE510594
 8542 E525 71ED 93CB 27C4 925E 15D9 AACD CE51 0594
 ```
 
-## GnuPG: Public Key
+## GPG public key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
