@@ -1,6 +1,6 @@
 ##Professional Service
 
-###Reviewer for major international journals:
+###Reviewer for journals:
 - MIS Quarterly - MISQ 2012, 2013
 - Information Systems Research - ISR 2012
 - Decision Support Systems - DSS 2013
@@ -10,16 +10,16 @@
 - Pacific Asian Journal of the Association for Information Systems - PAJAIS 2011
 - National Taiwan University (NTU) Management Review  - 2014
 
-###Reviewer for major international conferences:
+###Reviewer for conferences:
 - International Conference on Information Systems - ICIS 2012
 - Hawaii International Conference on System Sciences - HICSS 2011, 2013
 - International Conference on Information Resources Management - ICIRM 2011
 - Pacific Asia Conference on Information Systems - PACIS 2009
 
-###Discussant for a major international conference:
+###Discussant for conferences:
 - International Association for Management of Technology - IAMOT 2012
 
-###Invited talks at major Taiwanese universities:
+###Invited talks (Taiwan):
 - National Taiwan University (2011)
 - National Central University (2012)
 - National Sun Yat-Sen University (2012, 2013)
