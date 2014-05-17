@@ -9,4 +9,4 @@ title: Soumya Ray
 {% include pub_papers.md %}
 
 TEST:
-{% scholar_pub 12345 %}
+{% scholar_pub 6WjiSOwAAAAJ:u5HHmVD_uO8C %}
