@@ -7,6 +7,3 @@ title: Soumya Ray
 {% include SNSbuttons.html %}
 <br>
 {% include pub_papers.md %}
-
-TEST:
-{% scholar_pub 6WjiSOwAAAAJ:u5HHmVD_uO8C %}

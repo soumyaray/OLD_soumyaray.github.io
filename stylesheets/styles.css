@@ -25,6 +25,12 @@
   text-decoration: none;
 }
 
+.scholar_pub {
+  margin-left: 10px;
+  color: darkgray;
+  font-style: italic;
+}
+
 #horiz_container {
   white-space: nowrap;
 }
