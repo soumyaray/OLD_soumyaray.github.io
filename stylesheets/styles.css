@@ -25,8 +25,38 @@
   text-decoration: none;
 }
 
+.scholar_pub {
+  margin-left: 10px;
+  color: darkgray;
+  font-style: italic;
+}
+
 #horiz_container {
   white-space: nowrap;
+}
+
+.pub {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.pub_ref {
+  format: block;
+/*  border: 1px dashed blue;*/
+}
+
+.pub_cit, .pub_url {
+  width: 20%;
+  display: inline-block;
+  font-style: italic;
+  font-size: 0.8em;
+/*  border: 1px dashed red;*/
+}
+
+.journal {
+  color: #0A0A0A;
+  font-style: italic;
+  display: inline-block;
 }
 
 body {
