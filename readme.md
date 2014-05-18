@@ -1,1 +1,4 @@
-Soumya's personal website
+# Soumya's personal website
+
+## Custom Plugins
+- gscholar
