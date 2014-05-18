@@ -11,36 +11,13 @@ module Jekyll
 
     def render(context)
       gpub = GScholarPub.new(@pub_id)
-      "<tr>"\
-      "<td>citations: #{gpub.cites}</td>"\
-      "<td><a href=\"#{gpub.article_url}\">article link</a></td>"\
-      "</tr>"
-
-      # auth_id, paper_id = @pub_id.split(/:/)
-      # url = "http://scholar.google.com/citations?view_op=view_citation" \
-      #       + "&hl=en&user=" + auth_id \
-      #       + "&citation_for_view=" + auth_id + ":" + paper_id
-      # req = Typhoeus::Request.new(url)
-      # res = req.run
-      #
-      # doc = Nokogiri::HTML(res.response_body)
-      #
-      # ## Cited-by HTML:
-      # # <div class="g-section" id="scholar_sec">
-      # #   <div class="cit-dt">Total citations</div>
-      # #   <div class="cit-dd">
-      # #     <a class="cit-dark-link" href="...">Cited by 15</a>
-      # #   </div>
-      # # </div>
-      # cites = doc.xpath("//div[contains(@id,'scholar_sec')]/div/a").text[/\d+/].to_i
-      #
-      # ## Chart HTML:
-      # # <div class="cit-dd">
-      # #   <img src="..." height="90" width="475" alt="">
-      # # </div>
-      # chart_url = doc.xpath("//div[contains(@class,'cit-dd')]/img").attr("src").value
-      #
-      # "  cites: #{cites}"
+      # "<tr>"\
+      # "<td>citations: #{gpub.cites}</td>"\
+      # "<td><a href=\"#{gpub.article_url}\">article link</a></td>"\
+      # "</tr>"
+      
+      "<div class=\"pub_url\"><a href=\"#{gpub.article_url}\">find it online</a></div>"\
+      "<div class=\"pub_cit\">cited #{gpub.cites} times</div>"
     end
   end
 
