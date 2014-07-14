@@ -1,21 +1,43 @@
 ## Class: Business Analytics Using Statistical Modeling
-relevant concentration: [Business Analytics Module](http://bit.ly/NTHU-ISS-BA)
+
+*Prerequisites: Introductory probability and statistics*
 
 ### Description
-#### The Essence for Service Science:
+
+#### Learning Objectives
+- Explore and describe data
+- Guard against fallacious use of statistics
+- Test theory against data
+- Capture a story from the data
+
+#### Course Outline
+- Understanding error: the inferential process and sampling
+- Describing data: distributions, visualization, and statistics
+- Data simulation and bootstrapping
+- Regression Modeling
+- Contingency perspective: moderation and interactions
+- Experiments: A/B and factorial design
+- Creating latent constructs: Principal component analysis
+- Partial Least Squares: path modeling and model comparison
+
+#### Tools
+- R, RStudio
+- Excel, SPSS
+
+### Relation to Business Analytics Concentration
+#### Related Concepts
 - Humane and socially responsible analytics: applying analytics to benefit consumers, employees, and society
 - Data-driven service innovation: helping discover customer needs and aid service design using analytics
 
-#### The key concepts, techniques, and capabilities delivered
+#### Related Skills
 - Discovering and collecting data
 - Integrating, preparing, and assessing data for quality
 - Exploring and understanding the nature of data and information
 - Visualizing and presenting data
-- Classifying, predicting, and forecasting
 - Modeling, quantifying, and assessing our domain understanding
 - Evaluating and comparing model performance
 
-#### The learning goals
+#### Related Goals
 - Be able to identify opportunities for using data analytic methods to benefit services
 - Gain an understanding of the implications of data analytics in business, appreciate its power and dangers
 - Become a smart, responsible and critical user of data analytics techniques
@@ -30,6 +52,3 @@ relevant concentration: [Business Analytics Module](http://bit.ly/NTHU-ISS-BA)
 - UX/UI engineer: customize interface and experience through experiment and behavioral analysis
 - Marketer: understand and predict markets, trends, and value networks
 - Information technology: create engines for data tools and embed analytics into IT services.
-
-###Tools###
-RStudio, R, Excel
