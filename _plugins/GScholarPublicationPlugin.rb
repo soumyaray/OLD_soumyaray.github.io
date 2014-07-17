@@ -34,15 +34,23 @@ module Jekyll
         cite_str = ""
       end
 
+      if [:volume, :issue, :pages].all? { |k| gpub.key? k } then
+        pub_info = "(#{gpub[:volume]}:#{gpub[:issue]}), pp. #{gpub[:pages]}"
+        link_str = 'find it online'
+      else
+        pub_info = ''
+        link_str = 'forthcoming'
+      end
+
       haml_code = Haml::Engine.new(%Q[
 %div.pub
   %div.pub_ref
     #{names} #{gpub[:date].year}. “#{gpub[:title]}”
     %span.journal #{gpub[:journal]}
-    (#{gpub[:volume]}:#{gpub[:issue]}), pp. #{gpub[:pages]}.
+    %span #{pub_info}.
   %div.pub_url
     %a{ :href => "#{gpub[:article_url]}" }
-      find it online
+      #{link_str}
   %div.pub_cit
     #{cite_str}
       ])
