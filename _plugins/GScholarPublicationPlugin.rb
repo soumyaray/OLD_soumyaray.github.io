@@ -12,14 +12,14 @@ module Jekyll
     end
 
     def render(context)
-      gpub = GentleScholar::Publication.get_from_http(@pub_id)
+      gpub = GentleScholar::Publication.extract_from_http(@pub_id)
 
       # gather all names
       names_a = gpub[:authors].map do |n|
         n.last + ', ' + (n.first(n.size-1)).reduce('') { |names, n2| names+n2[0]+'.' }
       end
 
-      names = ''
+      names = cite_str = pub_info = link_str = ''
       if names_a.length > 1 then
         all_but_last = names_a.first(names_a.length-1).join(', ')
         if names_a.length == 2 then append_s = 'and' else append_s = '&' end
@@ -28,17 +28,12 @@ module Jekyll
         names = names_a[0]
       end
 
-      if gpub[:cites]
-        cite_str = "cited #{gpub[:cites]} times"
-      else
-        cite_str = ""
-      end
+      cite_str = "cited #{gpub[:cites]} times" if gpub[:cites]
 
       if [:volume, :issue, :pages].all? { |k| gpub.key? k } then
         pub_info = "(#{gpub[:volume]}:#{gpub[:issue]}), pp. #{gpub[:pages]}"
         link_str = 'find it online'
       else
-        pub_info = ''
         link_str = 'forthcoming'
       end
 
