@@ -41,6 +41,7 @@ module Jekyll
 %div.pub
   %div.pub_ref
     #{names} #{gpub[:date].year}. “#{gpub[:title]}”
+    %br
     %span.journal #{gpub[:journal]}
     %span #{pub_info}.
   %div.pub_url
