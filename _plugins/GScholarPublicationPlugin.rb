@@ -1,4 +1,3 @@
-#require 'gscholar'
 require 'gentle-scholar'
 require 'haml'
 
