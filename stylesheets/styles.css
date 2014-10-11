@@ -2,10 +2,10 @@
 
 
 #SNSbutton {
-  border: 2px solid #6495ED;
+  border: 2px solid #576D94;
   border-radius: 10px;
   width: 150px;
-  background-color: #BCD2EE;
+  background-color: #576D94;
   font-family: Arial, sans-serif;
   color: white;
   margin: 10px;
@@ -23,6 +23,12 @@
   font-weight: bold;
   text-align: center;
   text-decoration: none;
+}
+
+
+p.view a {
+  font-weight: bold;
+  color: #576D94
 }
 
 .scholar_pub {
@@ -105,11 +111,15 @@ a {
   text-decoration:none;
 }
 
-a small {
+small a {
   font-size:11px;
-  color:#777;
+  color:#39c;
   margin-top:-0.6em;
   display:block;
+}
+
+.pub_url a {
+  color:#39c;
 }
 
 .wrapper {
