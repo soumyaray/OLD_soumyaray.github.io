@@ -1,7 +1,7 @@
 ## Class: Service Oriented Architecture
 
 ### Resources
-Class overview: [[Latest Schedule](https://docs.google.com/spreadsheets/d/1R1h9srDttvKKJvsrOPTt_zgoLfbRRtQErWsv7QrVfMg/pubhtml)]
+Class overview: [Latest Schedule](https://docs.google.com/spreadsheets/d/1R1h9srDttvKKJvsrOPTt_zgoLfbRRtQErWsv7QrVfMg/edit)
 
 *Prerequisites: Object-oriented programming, Databases, HTML/CSS*<br>
 *Recommended: Systems analysis and design*

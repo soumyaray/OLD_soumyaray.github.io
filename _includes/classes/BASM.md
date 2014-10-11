@@ -1,5 +1,8 @@
 ## Class: Business Analytics Using Statistical Modeling
 
+### Resources
+Class overview: [Latest Syllabus](https://docs.google.com/document/d/1D8B5RHUkllzYolMUvQpV0jhAQcmmhZMzWxYmJG3CnG0/edit)
+
 *Prerequisites: Introductory probability and statistics*
 
 ### Description

@@ -8,15 +8,19 @@ Students will develop a habit of creating high quality code, publishing their wo
 This class favors the tools and practices of IT startups and the open source movement.
 
 ### Business Analytics Using Statistical Modeling
-[[Detailed information](/classes/BASM) | Syllabus coming in August]<br>
-
+[[Detailed information](/classes/BASM) | [Syllabus](https://docs.google.com/document/d/1D8B5RHUkllzYolMUvQpV0jhAQcmmhZMzWxYmJG3CnG0/edit)]
 
 This class develops skills to understand the nature of data and infer knowledge from it.
 We will learn how to match our intuition and prior theory with simulation, visualization, and statistical techniques.
-This class favors the tools and techniques of marketing research and practice.
+This class favors the tools and techniques of marketing research and practice. The class will entail handling
+both small and large volumes of data, and student teams will analyze real data from partner companies.
 
 ### Service Security
-More information coming this Fall (check back in November/December)
+[[Detailed information](/classes/SEC)]
 
+This class transforms students understanding of what information security is, from the basics of information theory to cryptographic
+principles, secure software development, and security policies. In terms of development, students will learn to implement elements
+such as single sign-on to enhance authentication, PKI to ensure confidentiality, messaging and load-balancing to enhance availability,
+and more.
 ___
 For more information on any of these classes, please do not hesitate to [contact me](social).
