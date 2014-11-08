@@ -7,6 +7,6 @@ Find me on:
 
 Email me at:
 
-<span style="margin-left:10px">![contact me](/images/soumya.ray.nthu.png)</span>
+<span style="margin-left:10px">![contact me](/images/soumya_email.png)</span>
 
 {% include secure.md %}
