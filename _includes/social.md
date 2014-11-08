@@ -1,7 +1,6 @@
-##Social Contact
+## Find Me Online
 
-
-Find me on:
+Find me socially on:
 
 {% include SNSbuttons.html %}
 
