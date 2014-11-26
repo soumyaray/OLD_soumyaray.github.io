@@ -1,8 +1,11 @@
 ## Awards and Grants
 
-### Academic Awards:
+### Research Awards:
 - Wu Ta-You Award — 2012 *(National Science Council)*
 - New Faculty Research Award — 2012 *(National Tsing Hua University)*
+
+### Service Awards:
+- Outstanding Reviewer - 2014 *(Decision Sciences Journal)*
 
 ### Grants
 
