@@ -23,4 +23,4 @@ principles, secure software development, and security policies. In terms of deve
 such as single sign-on to enhance authentication, PKI to ensure confidentiality, messaging and load-balancing to enhance availability,
 and more.
 ___
-For more information on any of these classes, please do not hesitate to [contact me](social).
+For more information on any of these classes, please do not hesitate to [contact me](/social).
