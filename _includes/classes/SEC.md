@@ -1,7 +1,7 @@
 ## Class: Service Oriented Architecture
 
 ### Resources
-Class overview: [Latest Syllabus](https://docs.google.com/document/d/1D8B5RHUkllzYolMUvQpV0jhAQcmmhZMzWxYmJG3CnG0/edit)
+Class overview: [Latest Syllabus](https://docs.google.com/document/d/1gJcwh5cPN0kFbP6-qnpu-_V3XQ_AQP1ux8RhnGOpk3I/edit?usp=sharing)
 
 *Prerequisites: Object-oriented programming, Databases, HTML/CSS*<br>
 *Highly Recommended: [Service Oriented Architecture](/classes/SOA/)*
@@ -9,13 +9,15 @@ Class overview: [Latest Syllabus](https://docs.google.com/document/d/1D8B5RHUkll
 Online development resources:
 <div id="horiz_container">
   <div id="SNSbutton"><a href="https://www.facebook.com/groups/service.sec/">Facebook Page</a></div>
+  <div id="SNSbutton"><a href="https://github.com/ISS-Security/class-SEC">Github Repo</a></div>
+  <div id="SNSbutton"><a href="https://github.com/ISS-Security/class-SEC/wiki">Wiki</a></div>
 </div>
 
 ### Description
 
 #### Learning Objectives
 - Develop software with secure qualities: confidentiality, integrity, authentication, authorization, availability, nonrepudiation
-- Model secure systems, policies
+- Model secure systems and policies
 - Interpret security news and derive knowledge about systems
 - Understand tradeoffs between security philosophies and practices
 
@@ -23,10 +25,10 @@ Online development resources:
 - Cryptographic principles: information theory, error-checking, ciphers, hashing, trust models
 - Secure software: certificates, tokens, OAuth, testing, refactoring, protocols, benchmarking, testing and behavior driven development
 - Discretionary and mandatory policies: Biba, Bell LaPadula, Brewer-Nash, etc.; lattice modeling
-- Configuring robust network software: DMZs, memcached, load balancing, etc.
+- Configuring robust software systems: benchmarking, performance testing, memcached, CDNs, load balancing, etc.
 
-#### Tools
-- Ruby, Sinatra
+#### Development Tools and Services
+- Ruby, Sinatra, Git, Github, Heroku, Amazon AWS
 
 ### Relation to Service Oriented Information Technology
 

@@ -16,11 +16,8 @@ This class favors the tools and techniques of marketing research and practice. T
 both small and large volumes of data, and student teams will analyze real data from partner companies.
 
 ### Service Security
-[[Detailed information](/classes/SEC)]
+[[Detailed information](/classes/SEC) | [Syllabus](https://docs.google.com/document/d/1gJcwh5cPN0kFbP6-qnpu-_V3XQ_AQP1ux8RhnGOpk3I/edit?usp=sharing)]
 
-This class transforms students understanding of what information security is, from the basics of information theory to cryptographic
-principles, secure software development, and security policies. In terms of development, students will learn to implement elements
-such as single sign-on to enhance authentication, PKI to ensure confidentiality, messaging and load-balancing to enhance availability,
-and more.
+This class transforms students understanding of what information security is and their ability to develop secure software. We start from the basics of information theory to cryptographic principles, secure software development, and security policies. Students will learn to develop elements such as single sign-on to enhance authentication, digital signatures and tokens to create secure ecosystems, messaging, configuring content-delivery networks, and more.
 ___
 For more information on any of these classes, please do not hesitate to [contact me](/social).
