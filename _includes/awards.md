@@ -7,6 +7,10 @@
 ### Service Awards:
 - Outstanding Reviewer - 2014 *(Decision Sciences Journal)*
 
+### Teaching Awards:
+- Outstanding Teaching Award - 2015 *(National Tsing Hua University)*
+- Outstanding Teaching Award - 2015 *(College of Technology Management)*
+
 ### Grants
 
 - 2014-2015: Ministry of Science and Technology
